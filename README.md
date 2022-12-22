@@ -29,7 +29,7 @@
  
 :pushpin: Resultado do projeto
 --
-
+[SITE BARBEARIA ALURA](https://nathqueiroz.github.io/Barbearia-Alura/)
           
           
  
